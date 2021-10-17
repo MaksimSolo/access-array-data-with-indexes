@@ -1,2 +1,2 @@
-# access-array-data-with-indexes
-access-array-data-with-indexes
+var myArray = [50,60,70];
+var myData = myArray[0];
